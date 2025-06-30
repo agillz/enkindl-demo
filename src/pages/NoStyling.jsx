@@ -1,6 +1,6 @@
 import React from "react";
 
-const Login = () => {
+const NoStyling = () => {
   return (
     <>
       <body>
@@ -112,4 +112,4 @@ const Login = () => {
   );
 };
 
-export default Login;
+export default NoStyling;
